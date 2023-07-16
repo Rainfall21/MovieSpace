@@ -3,7 +3,7 @@
 //  MovieSpace
 //
 //  Created by Alibek Ismagulov on 07.07.2023.
-//
+
 
 import SwiftUI
 

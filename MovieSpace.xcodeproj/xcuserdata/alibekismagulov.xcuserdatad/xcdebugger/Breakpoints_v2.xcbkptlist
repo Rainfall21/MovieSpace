@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F8AF114-B077-4129-821D-6E9B636D2B8E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D91A8C8-0217-4121-B97F-9FFC0166B9F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/Views/MovieSpaceView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0D91A8C8-0217-4121-B97F-9FFC0166B9F5 - b49ea43b703e4c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSpace.ContentView.body.getter : some"
+                  moduleName = "MovieSpace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibekismagulov/Documents/Swift/MovieSpace/MovieSpace/Views/MovieSpaceView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "0D91A8C8-0217-4121-B97F-9FFC0166B9F5 - 84f0ad12ddaf5d0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in MovieSpace.ContentView.body.getter : some"
+                  moduleName = "MovieSpace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibekismagulov/Documents/Swift/MovieSpace/MovieSpace/Views/MovieSpaceView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C823C5F-14C9-405E-82B1-44F6B3C3BA8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchMovies(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F9BCD24-CD37-471F-9BB5-719ACBD8B633"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchMovies(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F9BCD24-CD37-471F-9BB5-719ACBD8B633 - 6de524534baa8b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSpace.FetchMoviesViewModel.fetchMovies(movieID: Swift.Optional&lt;Swift.String&gt;, searchText: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;MovieSpace.MovieModel&gt;"
+                  moduleName = "MovieSpace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibekismagulov/Documents/Swift/MovieSpace/MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "2F9BCD24-CD37-471F-9BB5-719ACBD8B633 - 40743603054f1c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSpace.FetchMoviesViewModel.fetchMovies(_: Swift.String, completion: (Swift.Array&lt;MovieSpace.MovieModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieSpace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibekismagulov/Documents/Swift/MovieSpace/MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "2F9BCD24-CD37-471F-9BB5-719ACBD8B633 - b81ce973ddbb093d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSpace.FetchMoviesViewModel.fetchMovies(_: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;MovieSpace.MovieModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieSpace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alibekismagulov/Documents/Swift/MovieSpace/MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "731DF799-F5CE-43F5-9091-FEF7511550EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchMovies(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABCAB24D-2CF5-46BB-8056-125A783E8C67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/ViewModels/FetchMoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchMovieDetails(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F34EE0-2F18-434E-9A89-47CFDF00A7B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSpace/Views/MovieSpaceView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
