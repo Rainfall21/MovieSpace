@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 
 class FetchMoviesViewModel : ObservableObject {
-    let url = "https://www.omdbapi.com/?apikey=6a30d911"
+    let url = "https://www.omdbapi.com/?apikey=\(OMDBApiKey)"
     
     func fetchMovies(_ searchText : String, completion: @escaping (Result<[MovieModel],Error>) -> Void) {
         var urlString : String = ""
