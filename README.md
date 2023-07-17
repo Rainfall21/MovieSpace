@@ -8,3 +8,5 @@ Also you can add specific movie to your ToWatch list and delete it from the list
 Realm is used for saving data of ToWatch list on your device. JSON parsing is done with Codable protocol
 
 Some additional features are in progress...
+
+[![Watch the video]](https://youtu.be/ygMCyC_M89Y)
