@@ -1,5 +1,5 @@
 # MovieSpace
-This is a ToWatchMovie App build with SwiftUI Framework. It uses OMDB API to search movies from imdb with help of search bar by movie title.
+This is a ToWatchMovie App build with SwiftUI Framework and MVVM pattern. It uses OMDB API to search movies from imdb with help of search bar by movie title.
 
 After that you can choose any movie and the app sends another request to OMDB API with chosen film ID to get more information about film, such as plot, actors and etc.
 
